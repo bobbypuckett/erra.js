@@ -1,0 +1,17 @@
+{
+  "name": "erra.js",
+  "version": "0.0.1",
+  "description": "A lightweight front end framework which enables object-oriented front end code without server side rendering.",
+  "main": "./index.js",
+  "files": ["dist/**/*"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "framework",
+    "front-end"
+  ],
+  "author": "Bobby Puckett",
+  "license": "ISC"
+}
